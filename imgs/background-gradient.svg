@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1999.1 1094">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        opacity: .5;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1728.5" y1="-207.5" x2="216.5" y2="1304.5" gradientTransform="translate(0 1094) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#670e10"/>
+      <stop offset=".3" stop-color="#792a2a"/>
+      <stop offset=".3" stop-color="#8d4946"/>
+      <stop offset=".4" stop-color="#9d615c"/>
+      <stop offset=".5" stop-color="#a9726c"/>
+      <stop offset=".5" stop-color="#af7c75"/>
+      <stop offset=".6" stop-color="#b28079"/>
+      <stop offset=".6" stop-color="#b78981"/>
+      <stop offset=".7" stop-color="#cca89e"/>
+      <stop offset=".7" stop-color="#dec3b6"/>
+      <stop offset=".8" stop-color="#ebd7c9"/>
+      <stop offset=".8" stop-color="#f4e6d6"/>
+      <stop offset=".9" stop-color="#faeede"/>
+      <stop offset="1" stop-color="#fcf1e1"/>
+      <stop offset="1" stop-color="#fcf1e1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1773.5" y1="-226" x2="227" y2="1320.5" gradientTransform="translate(0 1094) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".4" stop-color="#670e10"/>
+      <stop offset=".5" stop-color="#8e4946"/>
+      <stop offset=".6" stop-color="#a8716b"/>
+      <stop offset=".6" stop-color="#b28079"/>
+      <stop offset=".6" stop-color="#b6877f"/>
+      <stop offset=".7" stop-color="#bf938b"/>
+      <stop offset=".8" stop-color="#c2988f"/>
+      <stop offset=".8" stop-color="#cda99e"/>
+      <stop offset=".8" stop-color="#dec3b6"/>
+      <stop offset=".8" stop-color="#ebd7c9"/>
+      <stop offset=".9" stop-color="#f4e6d6"/>
+      <stop offset=".9" stop-color="#faeede"/>
+      <stop offset="1" stop-color="#fcf1e1"/>
+      <stop offset="1" stop-color="#fcf1e1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1219.1" y1="942.9" x2="1301.4" y2="1025.1" gradientTransform="translate(0 1094) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#670e10"/>
+      <stop offset="1" stop-color="#fcf1e1"/>
+      <stop offset="1" stop-color="#fcf1e1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="1721" y1="758.8" x2="1480.3" y2="1069.9" gradientTransform="translate(-198.9 -2376) rotate(90) scale(1.8 -1.8)" gradientUnits="userSpaceOnUse">
+      <stop offset=".4" stop-color="#670e10"/>
+      <stop offset=".4" stop-color="#6a1315"/>
+      <stop offset=".5" stop-color="#8c4644"/>
+      <stop offset=".5" stop-color="#aa746e"/>
+      <stop offset=".6" stop-color="#c39a91"/>
+      <stop offset=".7" stop-color="#d7baae"/>
+      <stop offset=".7" stop-color="#e7d2c4"/>
+      <stop offset=".8" stop-color="#f3e3d4"/>
+      <stop offset=".9" stop-color="#f9eddd"/>
+      <stop offset="1" stop-color="#fcf1e1"/>
+      <stop offset="1" stop-color="#fcf1e1"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.2, SVG Export Plug-In . SVG Version: 1.2.0 Build 154)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <rect class="cls-4" x="5.5" y=".5" width="1934" height="1090"/>
+        <path d="M1939,1v1089H6V1h1933M1940,0H5v1091h1935V0h0Z"/>
+      </g>
+      <g>
+        <rect class="cls-1" x=".5" y="0" width="1999.5" height="1093.5"/>
+        <path d="M1999.5.5v1092.5H1V.5h1998.5M2000.5-.5H0v1094.5h2000.5V-.5h0Z"/>
+      </g>
+      <g class="cls-5">
+        <ellipse class="cls-3" cx="1260.3" cy="110" rx="56.3" ry="60"/>
+      </g>
+      <ellipse class="cls-2" cx="1485.2" cy="487.9" rx="347.7" ry="373.9" transform="translate(941.6 1953.6) rotate(-87.8)"/>
+    </g>
+  </g>
+</svg>
